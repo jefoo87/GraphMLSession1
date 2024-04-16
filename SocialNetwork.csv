@@ -1,4 +1,4 @@
-﻿Name,Relationship,Type,Closeness
+﻿Name,Relationship,Organization,Closeness
 James,Self,Self,1.00
 Juyeon,SO,SO,0.95
 Nigel,Father,Family,0.90
