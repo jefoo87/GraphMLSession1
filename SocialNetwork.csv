@@ -1,4 +1,4 @@
-﻿Name,Relationship,Organization,Closeness
+﻿Name,Relationship,Type,Closeness
 James,Self,Self,1.00
 Juyeon,SO,SO,0.95
 Nigel,Father,Family,0.90
@@ -28,8 +28,8 @@ Logan S.,Close Friend,Auburn,0.85
 Logan A.,Friend,Auburn,0.70
 Ethan,Friend,Auburn,0.75
 Ashley,Friend,High School,0.70
-Jia,Friend,Deliang,0.70
-Miles,Friend,Hunter,0.75
+Jia,Friend,Auburn,0.70
+Miles,Friend,Auburn,0.75
 Reinhardt,Classmate,IAAC,0.70
 Bruno,Classmate,IAAC,0.50
 Luis,Classmate,IAAC,0.30
