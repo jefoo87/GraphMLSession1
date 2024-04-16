@@ -1,0 +1,89 @@
+﻿Name,Relationship,Type,Closeness
+James,Self,Self,1.00
+Juyeon,SO,SO,0.95
+Nigel,Father,Family,0.90
+Kate,Mother,Family,0.90
+Niles,Brother,Family,0.90
+Christy,Sister,Family,0.90
+Elizabeth,Grandmother,Maternal Family,0.90
+Eddie,Grandfather,Maternal Family,0.90
+Sarah,Aunt,Maternal Family,0.90
+Shirley,Grandmother,Paternal Family,0.80
+Moses,Grandfather,Paternal Family,0.80
+Gerry,Uncle,Paternal Family,0.70
+Lisa,Aunt,Paternal Family,0.70
+Sienna,Cousin,Paternal Family,0.20
+Kalaya,Cousin,Paternal Family,0.20
+Ariel,Cousin,Paternal Family,0.10
+Mark,Uncle,Paternal Family,0.60
+Kevin,Uncle,Paternal Family,0.50
+Amanda,Cousin,Paternal Family,0.20
+Nathan,Cousin,Paternal Family,0.20
+Ethan,Cousin,Paternal Family,0.20
+Luke,Close Friend,High School,0.90
+Hunter,Close Friend,Auburn,0.85
+Deliang,Close Friend,Auburn,0.85
+Elijah,Close Friend,Auburn,0.85
+Logan S.,Close Friend,Auburn,0.85
+Logan A.,Friend,Auburn,0.70
+Ethan,Friend,Auburn,0.75
+Ashley,Friend,High School,0.70
+Jia,Friend,Deliang,0.70
+Miles,Friend,Hunter,0.75
+Reinhardt,Classmate,IAAC,0.70
+Bruno,Classmate,IAAC,0.50
+Luis,Classmate,IAAC,0.30
+Andres,Classmate,IAAC,0.30
+Nilang,Classmate,IAAC,0.30
+Alberto,Classmate,IAAC,0.30
+Dom,Classmate,IAAC,0.70
+Faizan,Classmate,IAAC,0.50
+Fadi,Classmate,IAAC,0.60
+Bao,Classmate,IAAC,0.10
+Ayman,Classmate,IAAC,0.10
+Christoph,Classmate,IAAC,0.10
+Farida,Classmate,IAAC,0.10
+Dawid,Classmate,IAAC,0.10
+Hande Fatma,Classmate,IAAC,0.10
+Libny Francisco,Classmate,IAAC,0.10
+Mohamad,Classmate,IAAC,0.10
+Yichen,Classmate,IAAC,0.10
+Eva,Classmate,IAAC,0.10
+Christopher Luis,Classmate,IAAC,0.10
+Hetal,Classmate,IAAC,0.10
+Georgios,Classmate,IAAC,0.10
+Aly,Classmate,IAAC,0.10
+Deeksha,Classmate,IAAC,0.10
+Stavros,Classmate,IAAC,0.10
+Chaitali,Classmate,IAAC,0.10
+Michael,Classmate,IAAC,0.10
+Md Jahirul,Classmate,IAAC,0.10
+William,Classmate,IAAC,0.10
+Mohammad,Classmate,IAAC,0.10
+Elnaz,Classmate,IAAC,0.10
+Anna,Classmate,IAAC,0.10
+Dominic,Classmate,IAAC,0.10
+Paula,Classmate,IAAC,0.10
+Naveen Kumar,Classmate,IAAC,0.10
+Fady,Classmate,IAAC,0.10
+Athanasios,Classmate,IAAC,0.10
+Saif al-islam,Classmate,IAAC,0.10
+Manolya Leyla,Classmate,IAAC,0.10
+Abdulrahman,Classmate,IAAC,0.10
+Konstantinos,Classmate,IAAC,0.10
+Naree,Classmate,IAAC,0.10
+Ugonna,Classmate,IAAC,0.10
+Zihan,Classmate,IAAC,0.10
+Adrian,Classmate,IAAC,0.10
+Georges,Classmate,IAAC,0.10
+Shravya,Classmate,IAAC,0.10
+Athanasios,Classmate,IAAC,0.10
+Chaitali,Classmate,IAAC,0.10
+Lindsey,Coworker,TVS,0.75
+Brian,Coworker,TVS,0.60
+Enrique,Coworker,TVS,0.60
+Lydia,Coworker,TVS,0.60
+Gary,Coworker,TVS,0.60
+Courtney,Coworker,TVS,0.60
+Liz,Coworker,TVS,0.60
+Natalie,Coworker,TVS,0.60
